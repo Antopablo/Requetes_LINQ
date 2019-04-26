@@ -1,0 +1,11 @@
+C:\Users\stagiaire\source\repos\Exo3_LINQ\Exo3_LINQ\bin\Debug\netcoreapp2.1\Exo3_LINQ.deps.json
+C:\Users\stagiaire\source\repos\Exo3_LINQ\Exo3_LINQ\bin\Debug\netcoreapp2.1\Exo3_LINQ.runtimeconfig.json
+C:\Users\stagiaire\source\repos\Exo3_LINQ\Exo3_LINQ\bin\Debug\netcoreapp2.1\Exo3_LINQ.runtimeconfig.dev.json
+C:\Users\stagiaire\source\repos\Exo3_LINQ\Exo3_LINQ\bin\Debug\netcoreapp2.1\Exo3_LINQ.dll
+C:\Users\stagiaire\source\repos\Exo3_LINQ\Exo3_LINQ\bin\Debug\netcoreapp2.1\Exo3_LINQ.pdb
+C:\Users\stagiaire\source\repos\Exo3_LINQ\Exo3_LINQ\obj\Debug\netcoreapp2.1\Exo3_LINQ.csprojAssemblyReference.cache
+C:\Users\stagiaire\source\repos\Exo3_LINQ\Exo3_LINQ\obj\Debug\netcoreapp2.1\Exo3_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\source\repos\Exo3_LINQ\Exo3_LINQ\obj\Debug\netcoreapp2.1\Exo3_LINQ.AssemblyInfoInputs.cache
+C:\Users\stagiaire\source\repos\Exo3_LINQ\Exo3_LINQ\obj\Debug\netcoreapp2.1\Exo3_LINQ.AssemblyInfo.cs
+C:\Users\stagiaire\source\repos\Exo3_LINQ\Exo3_LINQ\obj\Debug\netcoreapp2.1\Exo3_LINQ.dll
+C:\Users\stagiaire\source\repos\Exo3_LINQ\Exo3_LINQ\obj\Debug\netcoreapp2.1\Exo3_LINQ.pdb
